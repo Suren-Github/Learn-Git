@@ -1,4 +1,4 @@
 Branching in GIT:
-
+0. Here are few points on branching
 1. A new branch is formed from the master branch
 2. Once changes maded to it, merged back to the master branch by creating a PR
